@@ -1,4 +1,8 @@
-### Hi there 👋
+### 안녕하세요!
+## 잇고투입니다!
+저는 평범한 아마추어 프로그래머 입니다.
+it에 관한 서비스를 제공하는 대단한 플랫폼인 잇고투를 준비하고 있으며
+계속 도전하고 도전하겠니다.
 
 <!--
 **itgotoo/itgotoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
